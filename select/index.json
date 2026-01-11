@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Going Going Going",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-11T12:46:32.027350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going Going Going",
+      "artist": "杨千嬅",
+      "has_synced": true,
+      "path": "select/01_Going_Going_Going_杨千嬅.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Going Going Going",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_Going_Going_Going_田中有紀.txt"
+    }
+  ]
+}
